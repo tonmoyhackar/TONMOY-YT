@@ -400,12 +400,12 @@ logo = ("""
 \x1b[1;92m                                                 ░ ░     
 
    \x1b[1;92m╔═════════════════════════════╗
-   \x1b[1;92m║➣TOOL NAME : { TONMOY THECH}   ║
-   \x1b[1;92m║➣AUTHOR    : TONMOY       ║
-   \x1b[1;92m║➣IMO : 01935255629 ║
-   \x1b[1;92m║➣FACEBOOK  : Tonmoy Thech   ║
-   \x1b[1;92m║➣Page     :  tonmoyhasan510 ║
-   \x1b[1;92m║➣WHATSAPP  : [ 01935255629]       ║
+   \x1b[1;92m║➣TOOL NAME : { TONMOY THECH}                    ║
+   \x1b[1;92m║➣AUTHOR    : TONMOY                                          ║
+   \x1b[1;92m║➣IMO : 01935255629                                             ║
+   \x1b[1;92m║➣FACEBOOK  : Tonmoy Thech                              ║
+   \x1b[1;92m║➣Page     :  tonmoyhasan510                                ║
+   \x1b[1;92m║➣WHATSAPP  : [ 01935255629]                           ║
    \x1b[1;92m╚═════════════════════════════╝""")
 
 class Main:
